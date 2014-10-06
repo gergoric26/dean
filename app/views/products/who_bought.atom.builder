@@ -27,7 +27,6 @@ atom_feed do |feed|
 	            xhtml.th number_to_currency \ order.line_items.map(&:total_price).sum
 	          end
 	        end
-
 	        xhtml.p "Paid by #{order.pay_type}"
 	      end
 	      entry.author do |author|

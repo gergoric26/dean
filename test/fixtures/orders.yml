@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: Dean Gergoric
+  name: Dave Thomas
   address: MyText
   email: dean@gergoric.com
   pay_type: Check
